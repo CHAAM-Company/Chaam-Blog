@@ -59,12 +59,12 @@ testimonial-items:
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
   - name: "홍정민(Chikong)"
-    image: "/images/client-2.jpg"
+    image: "/images/member-chikong.jpeg"
     designation : "Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
   - name: "정윤성(Neis)"
-    image: "/images/client-3.jpg"
+    image: "/images/member-neis.JPG"
     designation : "Deigner & Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
