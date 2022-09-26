@@ -73,17 +73,17 @@ testimonial-items:
     designation : "PM & Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-- name: "이재웅(Curry)"
+  - name: "이재웅(Curry)"
     image: "/images/client-4.jpg"
     designation : "Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-- name: "최원혁(Hyukey)"
+  - name: "최원혁(Hyukey)"
     image: "/images/client-4.jpg"
     designation : "Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
-- name: "이준모(Bethev)"
+  - name: "이준모(Bethev)"
     image: "/images/client-4.jpg"
     designation : "Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
