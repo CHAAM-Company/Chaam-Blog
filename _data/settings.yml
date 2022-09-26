@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
 
-title: Avenco
+title: Chaam Company
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Avenco – Creative Portfolio Theme for Jekyll
+description: 참컴퍼니 공식 홈페이지
 
 menu__settings:
   menu__items:
