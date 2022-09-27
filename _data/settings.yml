@@ -61,7 +61,7 @@ testimonial-items:
   - name: "홍정민(Chikong)"
     image: "/images/member-chikong.jpeg"
     designation : "Developer"
-    content : "실패를  두려워하지 않고, 도전하며 성장을 즐기면서 Apple Developer Academy @ POSTECT 에서 iOS 공부를 하고있습니다.\n협업을 위해 배려하며, 성장하기 위해 노력합니다."
+    content : "실패를  두려워하지 않고, 도전하며 성장을 즐기면서\nApple Developer Academy @ POSTECT 에서 iOS 공부를 하고있습니다.\n협업을 위해 배려하며, 성장하기 위해 노력합니다."
 
   - name: "정윤성(Neis)"
     image: "/images/member-neis.JPG"
