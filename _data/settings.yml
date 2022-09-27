@@ -54,7 +54,7 @@ testimonial__title: Our Happy <span class="text-span">Team members</span> # Add 
 
 testimonial-items:
   - name: "이창형(Changbro)"
-    image: "/images/client-1.jpg"
+    image: "/images/member-changbro.jpeg"
     designation : "Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
