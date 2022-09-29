@@ -1,7 +1,7 @@
 ---
 title: 한글톤
 date: 2022-10-09 07:40:35 +0300
-subtitle: 해커톤
+subtitle: Hackathon
 image: '/images/project/hangulthon/thumbnail.png'
 ---
 
