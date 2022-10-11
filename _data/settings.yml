@@ -50,7 +50,7 @@ projects__settings:
 #-------------------------------
 # Testimonials Section
 
-testimonial__title: Our Team <span class="text-span">Members</span> # Add a 'text-span' class to highlight text.
+testimonial__title: Chaam Company의 <span class="text-span">구성원들</span> # Add a 'text-span' class to highlight text.
 
 testimonial-items:
   - name: "이창형(Changbro)"
