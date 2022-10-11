@@ -10,9 +10,9 @@ image: '/images/project/hangulthon/thumbnail.png'
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project/hangulthon/인스타 게시용_1.png" alt="Project">
-    <img src="/images/project/hangulthon/인스타 게시용_2.png" alt="Project">
-    <img src="/images/project/hangulthon/한글톤 포스터.png" alt="Project">
+    <img src="/images/project/hangulthon/insta.png" alt="Project">
+    <img src="/images/project/hangulthon/insta2.png" alt="Project">
+    <img src="/images/project/hangulthon/poster.png" alt="Project">
   </div>
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
