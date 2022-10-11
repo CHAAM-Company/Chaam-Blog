@@ -20,4 +20,6 @@ image: '/images/project/hangulthon/thumbnail.png'
 
 <p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
 
-Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+기획단 - 이재웅, 홍정민, 이준모, 곽세진, 최원혁, 이재웅, 정윤성
+
+촬영팀 - 전호정, 강지인, 한경준, 신제범, 노태우, 노건영, 김도운
