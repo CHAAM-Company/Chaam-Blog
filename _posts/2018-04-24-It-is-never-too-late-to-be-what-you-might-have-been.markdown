@@ -5,7 +5,7 @@ date:   2022-09-24 15:01:35 +0300
 image:  '/images/realPunch-1.jpg'
 tags:   [리얼펀치]
 ---
-In qua quid est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, reman voluptatem amico percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc means adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in nis.
+Chaam Company의 첫번째 프로젝트인 '리얼펀치'의 시즌1의 챔피언이 탄생했습니다! Lawn(이하 로운)은 1060점을 기록하며 수많은 경쟁자를 뚫고 챔피언에 등극 하였습니다. Chaam Company는 챔피언을 축하하기 위해 단체 기념사진을 촬영하였고, 벨트 수여식 또한 진행 했습니다. 1대 챔피언인 로운은 "펀치가 세상에서 제일 쉬웠어요" 라는 말과 함께 챔피언 등극을 기뻐했는데요. 직접 앱을 구현한 개발자들도 달성할수 없었던 꽤나 높은 점수를 달성하여 모든 사람들을 놀라게 하였습니다. 그 어떤 챔피언들 보다 1대 챔피언이라서 너무나도 기쁠것 같은데요. 챔피언 등극을 다시한번 축하드립니다.
 
 <div class="gallery-box">
   <div class="gallery">
