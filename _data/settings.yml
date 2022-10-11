@@ -54,37 +54,37 @@ testimonial__title: Chaam Company의 <span class="text-span">구성원들</span>
 
 testimonial-items:
   - name: "이창형(Changbro)"
-    image: "/images/member-changbro.jpeg"
+    image: "/images/profile/member-changbro.jpeg"
     designation : "Developer"
     content : "iOS 개발자 Begginer 이창형입니다. 맡은 일에 대한 책임감이 강하고 무슨 일이든 능동적인 자세로 포기하지 않고 노력합니다. 호기심과 도전정신이 강하여 여러 분야의 경험도 많습니다."
 
   - name: "홍정민(Chikong)"
-    image: "/images/member-chikong.jpeg"
+    image: "/images/profilemember-chikong.jpeg"
     designation : "Developer"
     content : "실패를 두려워하지 않고, 도전하며 성장을 즐기면서 iOS App 개발공부를 하고있는 홍정민 입니다. 협업을 통해 경험을 쌓고 커뮤니케이션 스킬을 배우며 성장하고 있습니다."
 
   - name: "정윤성(Neis)"
-    image: "/images/member-neis.JPG"
+    image: "/images/profilemember-neis.JPG"
     designation : "Deigner & Developer"
     content : "반갑습니다! 제 이름은 정윤성입니다. 저는 기획, 디자인, 개발 모든 것을 다 하는 풀스택 디자이너를 꿈꾸는 학생입니다. 현재 UX 관점에서 서비스 기획을 하기 위해 노력 중입니다."
 
   - name: "곽세진(Raven)"
-    image: "/images/client-4.jpg"
+    image: "/images/profile/noImg"
     designation : "PM & Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
   - name: "이재웅(Curry)"
-    image: "/images/client-4.jpg"
+    image: "/images/profile/noImg"
     designation : "Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
   - name: "최원혁(Hyukey)"
-    image: "/images/client-4.jpg"
+    image: "/images/profile/noImg"
     designation : "Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
   - name: "이준모(Bethev)"
-    image: "/images/client-4.jpg"
+    image: "/images/profile/noImg"
     designation : "Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
