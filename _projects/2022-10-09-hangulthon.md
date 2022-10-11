@@ -5,13 +5,14 @@ subtitle: Hackathon
 image: '/images/project/hangulthon/thumbnail.png'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
+2022년 576회 한글날은 맞이하여 한글톤(해커톤)을 기획하였습니다. 한글날을 맞이한 만큼 해커톤의 주제와 해커톤의 무드 또한 한글날에 맞게 구성하였습니다.
+2022년 10월 8일 ~ 9일 2일간 진행되었으며, 장소는 포항공과대학교 C5 5층 Apple Developer Academy 에서 진행되었습니다.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-6.jpg" alt="Project">
-    <img src="/images/project-8.jpg" alt="Project">
-    <img src="/images/project-7.jpg" alt="Project">
+    <img src="/images/project/hangulthon/인스타 게시용_1.png" alt="Project">
+    <img src="/images/project/hangulthon/인스타 게시용_2.png" alt="Project">
+    <img src="/images/project/hangulthon/한글톤 포스터.png" alt="Project">
   </div>
   <em>Projects / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
