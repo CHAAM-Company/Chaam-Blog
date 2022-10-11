@@ -44,7 +44,7 @@ author:
 
 projects__settings:
   projects__title: 최근 <span class="text-span">작업물</span> # Add a 'text-span' class to highlight text.
-  projects__description: Chaam Company 팀원들이 기획하고 개발했던 작업물들을 소개하겠습니다!
+  projects__description: Chaam Company 팀원들이 기획하고 개발했던 <br>작업물들을 소개하겠습니다!
 
 
 #-------------------------------
