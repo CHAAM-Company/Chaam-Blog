@@ -93,7 +93,7 @@ testimonial-items:
 # Blog Section
 
 blog__settings:
-  blog__title: Recent <span class="text-span">Blog</span> Posts # Add a 'text-span' class to highlight text.
+  blog__title: 최근 <span class="text-span">이벤트</span> 내용 # Add a 'text-span' class to highlight text.
   blog__description:
 
 
