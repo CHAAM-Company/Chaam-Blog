@@ -69,14 +69,14 @@ testimonial-items:
     content : "반갑습니다! 제 이름은 정윤성입니다. 저는 기획, 디자인, 개발 모든 것을 다 하는 풀스택 디자이너를 꿈꾸는 학생입니다. 현재 UX 관점에서 서비스 기획을 하기 위해 노력 중입니다."
 
   - name: "곽세진(Raven)"
-    image: "/images/profile/noImg.jpg"
+    image: "/images/profile/member-raven.jpg"
     designation : "PM & Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
   - name: "이재웅(Curry)"
-    image: "/images/profile/noImg.jpg"
+    image: "/images/profile/member-curry.jpeg"
     designation : "Developer"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    content : "안녕하세요! 항상 새로운 것을 만들고자 하는 개발자, 이재웅입니다. 저는 iOS 개발을 하고 있으며 iOS 생태계와 문화를 만들고 경험하며 세상에 이로운 제품을 만들고자 합니다."
 
   - name: "최원혁(Hyukey)"
     image: "/images/profile/noImg.jpg"
@@ -84,6 +84,41 @@ testimonial-items:
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
   - name: "이준모(Bethev)"
+    image: "/images/profile/noImg.jpg"
+    designation : "Developer"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    
+  - name: "전호정(Curry)"
+    image: "/images/profile/member-라우.jpeg"
+    designation : "Developer"
+    content : "안녕하세요 개발자,기획자와 소통이 가능한 올라운더 디자이너가 되고싶은 전호정입니다!\nUI/UX 뿐만 아니라 디지털 크리에이터로서도 열심히 성장하려 노력하고 있습니다!\n\nPM\nUI/UX Designer\nDeveloper"
+    
+  - name: "이재웅(Curry)"
+    image: "/images/profile/noImg.jpg"
+    designation : "Developer"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    
+  - name: "이재웅(Curry)"
+    image: "/images/profile/noImg.jpg"
+    designation : "Developer"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    
+  - name: "이재웅(Curry)"
+    image: "/images/profile/noImg.jpg"
+    designation : "Developer"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    
+  - name: "이재웅(Curry)"
+    image: "/images/profile/noImg.jpg"
+    designation : "Developer"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    
+  - name: "이재웅(Curry)"
+    image: "/images/profile/noImg.jpg"
+    designation : "Developer"
+    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    
+  - name: "이재웅(Curry)"
     image: "/images/profile/noImg.jpg"
     designation : "Developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
