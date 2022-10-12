@@ -20,6 +20,6 @@ image: '/images/project/hangulthon/thumbnail.png'
 
 <p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
 
-기획단 - 이재웅, 홍정민, 이준모, 곽세진, 최원혁, 이재웅, 정윤성
+기획단 - 이재웅, 홍정민, 이준모, 곽세진, 최원혁, 이창형, 정윤성
 
 촬영팀 - 전호정, 강지인, 한경준, 신제범, 노태우, 노건영, 김도운
