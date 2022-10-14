@@ -90,8 +90,8 @@ testimonial-items:
     
   - name: "전호정(Lau)"
     image: "/images/profile/member-라우.jpeg"
-    designation : "Developer"
-    content : "안녕하세요 개발자,기획자와 소통이 가능한 올라운더 디자이너가 되고싶은 전호정입니다!\nUI/UX 뿐만 아니라 디지털 크리에이터로서도 열심히 성장하려 노력하고 있습니다!\n\nPM\nUI/UX Designer\nDeveloper"
+    designation : "PM\nUI/UX Designer\nDeveloper"
+    content : "안녕하세요 개발자,기획자와 소통이 가능한 올라운더 디자이너가 되고싶은 전호정입니다!\nUI/UX 뿐만 아니라 디지털 크리에이터로서도 열심히 성장하려 노력하고 있습니다!"
     
   - name: "이재웅(Curry)"
     image: "/images/profile/noImg.jpg"
