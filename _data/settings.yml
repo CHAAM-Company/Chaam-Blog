@@ -99,9 +99,9 @@ testimonial-items:
     content : "안녕하세요~ 개발자 강지인입니다. 무엇이든 함께, 즐겁게, 행복하게, 책임감 있게 해내는 사람입니다. 사람을 가장 중요시하며 개발에서나, 사람 사이에서나 윤활유같은 존재가 되겠습니다."
     
   - name: "한경준(Halogen)"
-    image: "/images/profile/noImg.jpg"
+    image: "/images/profile/member-halogen.jpeg"
     designation : "Developer"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
+    content : "안녕하세요! 디발자를 꿈꾸는 한경준입니다. Apple 생태계 안에서의 소프트웨어 개발과 디자인을 공부하고 있습니다. 유저에게 사랑받는 앱을 개발하기 위해 노력중입니다."
     
   - name: "신제범(Garfield)"
     image: "/images/profile/member-Garfield.jpeg"
