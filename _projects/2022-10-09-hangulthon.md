@@ -18,8 +18,8 @@ image: '/images/project/hangulthon/thumbnail.png'
 
 처음 "Real Punch"를 기획하고 개발하면서 좋은 경험이라고 생각이 들었으며, 이를 좀더 많은사람들과 나누면 좋을것 같아 조금 큰 규모의 해커톤을 기획하게 되었습니다. 2일간 오전 10시 ~ 오후 10시 하루에 12시간씩 총 24시간동안 진행되는 형식이고, iOS 개발을 공부하고 있는만큼 모든 팀이 iOS 앱 출시를 목표로 참여를 하게 됩니다. 
 
-<p><iframe src="https://www.youtube.com/embed/QyQ85DEVpbc" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/tJCG9I4RsIM" frameborder="0" allowfullscreen></iframe></p>
 
-기획단 - 이재웅, 홍정민, 이준모, 곽세진, 최원혁, 이창형, 정윤성
+기획단 - 이재웅, 홍정민, 이준모, 곽세진, 최원혁, 이창형, 정윤성`
 
 촬영팀 - 전호정, 강지인, 한경준, 신제범, 노태우, 노건영, 김도운
